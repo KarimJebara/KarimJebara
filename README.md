@@ -1,7 +1,3 @@
-# 💫 About Me:
-About Me<br><br>Data Science & AI student building production-scale data systems and ML-driven products.<br><br>- Data Engineering Intern @ Just Eat Takeaway (DBT, BigQuery, Airflow)<br>- Building DayFuel — AI-powered nutrition planning system<br><br>Focus<br>- Scalable data pipelines & warehouse architecture<br>- Applied machine learning systems<br>- Turning data into real-world decisions<br><br>Tech<br>- Python, SQL<br>- DBT, BigQuery, Airflow<br>- scikit-learn, GCP<br><br>Currently exploring<br>- Multi-agent systems & LLM workflows<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karim-jebara-923694273/?locale=en) 
 
